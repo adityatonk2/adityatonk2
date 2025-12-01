@@ -1,5 +1,5 @@
 # 💫 About Me:
-"🎓 BCA Student | Aspiring Software Developer | Passionate About Coding, Problem-Solving, and Innovative Tech Solutions | Eager to Learn and Grow"
+"Aspiring Software Developer | Passionate About Coding, Problem-Solving, and Innovative Tech Solutions | Eager to Learn and Grow"
 
 
 ## 🌐 Socials:
